@@ -20,6 +20,7 @@ public class Main {
                 System.out.println("Слишком большое число");
             }else {
                 System.out.println("Ура ты победил");
+
                 break;
             }
         }
